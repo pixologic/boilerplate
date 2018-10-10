@@ -1,0 +1,20 @@
+//Comment this line if you do not want to use Bootstrap
+@import "bootstrap/bootstrap.scss";
+
+//Comment this line if you do not want to use Animate
+@import "animate/animate.scss";
+
+//Comment this line if you do not want to use Materialize
+@import "materialize/materialize.scss";
+
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "navbar.scss";
+@import "masthead.scss";
+@import "download.scss";
+@import "features.scss";
+@import "cta.scss";
+@import "contact.scss";
+@import "footer.scss";
+@import "bootstrap-overrides.scss";
